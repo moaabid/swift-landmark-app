@@ -23,6 +23,8 @@ public class ModelData: ObservableObject{
             by: { $0.category.rawValue }
         )
     }
+    
+    @Published var profile = Profile.default
 }
 
 
