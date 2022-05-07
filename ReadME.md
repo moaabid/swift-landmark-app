@@ -4,11 +4,11 @@ Landmarks — an app for discovering and sharing the places you love. Build this
 
 ## Screenshots
 
-<img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_1.png" width="320" height="620"> <img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_2.png" width="320" height="620">
+<img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_1.png" width="320" height="600"> <img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_2.png" width="320" height="600">
 
-<img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_3.png" width="320" height="620"> <img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_4.png" width="320" height="620">
+<img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_3.png" width="320" height="600"> <img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_4.png" width="320" height="600">
 
-<img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_5.png" width="320" height="620"> <img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_6.png" width="320" height="620">
+<img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_5.png" width="320" height="600"> <img src="https://raw.github.com/moaabid/swift-landmark-app/main/Screenshots/sc_6.png" width="320" height="600">
 
 ## Learned
 
